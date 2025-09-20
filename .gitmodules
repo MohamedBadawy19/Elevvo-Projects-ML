@@ -1,3 +1,15 @@
 [submodule "Student-Score-Prediction"]
 	path = Student-Score-Prediction
 	url = https://github.com/MohamedBadawy19/Student-Score-Prediction
+[submodule "Forest-Cover-Type-Classification"]
+	path = Forest-Cover-Type-Classification
+	url = https://github.com/MohamedBadawy19/Forest-Cover-Type-Classification
+[submodule "Loan-Approval-Prediction"]
+	path = Loan-Approval-Prediction
+	url = https://github.com/MohamedBadawy19/Loan-Approval-Prediction
+[submodule "Walmart-Sales-Forecasting"]
+	path = Walmart-Sales-Forecasting
+	url = https://github.com/MohamedBadawy19/Walmart-Sales-Forecasting
+[submodule "Customer-Segmentation"]
+	path = Customer-Segmentation
+	url = https://github.com/MohamedBadawy19/Customer-Segmentation
